@@ -35,7 +35,7 @@
                 attempts--;
                 if (attempts > 0)
                 {
-                    Console.WriteLine("Kalan Hakkınız: " + attempts);
+                    Console.WriteLine("Remaining chances: " + attempts);
                 }
                 else
                 {
